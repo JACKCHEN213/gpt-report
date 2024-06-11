@@ -11,4 +11,4 @@
 
 # star history
 
-https://star-history.com/#JACKCHEN213/gpt-report&Date
+![](https://star-history.com/#JACKCHEN213/gpt-report&Date)
