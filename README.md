@@ -9,6 +9,6 @@
 + [ ] 定义工具：数据库查询工具、图表生成工具、网页生成工具
 
 
-# star history
+## Star History
 
-![](https://star-history.com/#JACKCHEN213/gpt-report&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=JACKCHEN213/gpt-report&type=Date)](https://star-history.com/#JACKCHEN213/gpt-report&Date)
